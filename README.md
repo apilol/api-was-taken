@@ -1,7 +1,7 @@
-- 👋 Hey! My Name is api! I I Mostly Code HTML / CSS!
-- 👀 Im Interested in Coding!
-- 🌱 I’m currently learning Discord.py and Python
-- 📫 You Can Reach me on Discord = api#0002
+- 👋 Hey! Im api! Im a Python Developer! I Also Code HTML / CSS!
+- 👀 Im Interested in Coding and Marketing!
+- 🌱 I am Currently Learning JS
+- 📫 You Can Reach Me On Many Places! Discord: api#0002 | Discord Server: http://discord.apilol.xyz | Bio Website: http://ez.apilol.xyz
 
 <!---
 api-was-taken/api-was-taken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
