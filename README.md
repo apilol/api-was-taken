@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://ez.apilol.xyz" target="blank"><img align="center" src="https://cdn.discordapp.com/avatars/969616637194027089/d47ceac10ff8078c5db57941fa77e971.png?size=1024" alt="https://cdn.discordapp.com/avatars/969616637194027089/d47ceac10ff8078c5db57941fa77e971.png?size=1024" height="30" width="30" /></a>
-<a href="http://discord.apilol.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lëgend#0283" height="30" width="40" /></a>
+<a href="http://ez.apilol.xyz" target="_blank"><img align="center" src="https://cdn.discordapp.com/avatars/969616637194027089/d47ceac10ff8078c5db57941fa77e971.png?size=1024" alt="https://cdn.discordapp.com/avatars/969616637194027089/d47ceac10ff8078c5db57941fa77e971.png?size=1024" height="30" width="30" /></a>
+<a href="http://discord.apilol.xyz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lëgend#0283" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
