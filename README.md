@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Api or Xrkzl</h1>
-<h3 align="center">I am a full time Discord.py Developer & Python Developer</h3>
+<h3 align="center">I'm a Full Time Python Developer that Mostly Uses Discord.py</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=api-was-taken&label=Profile%20views&color=0e75b6&style=flat" alt="asmodeus-was-taken" /> </p>
 
