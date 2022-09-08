@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=api-was-taken&show_icons=true&locale=en&layout=compact" alt="asmodeus-was-taken" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=api-was-taken&show_icons=true&locale=en" alt="asmodeus-was-taken" /></p>
-
-<iframe src="https://discord.com/widget?id=1009348541027725333&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
