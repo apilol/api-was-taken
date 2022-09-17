@@ -9,7 +9,7 @@
 - 📌 Im Currently Learning **HTML + CSS, Python & JS**
 - 🔥 Im Currently Looking for Help With **Website Development**
 - 🙋 Ask Me About **Python & Discord.py**
-- 🎙 How To Reach Me [Discord Server](http://discord.apilol.xyz) | [Discord Name](https://pastebin.com/BXTQamYf)
+- 🎙 How To Reach Me [Discord Server](http://discord.apilol.xyz) | [Discord Account](https://discord.com/users/755155481458114630)
 - 🎢 Fun Fact **I Learned Discord.py In Just A Couple of Months**
 - 🛼 Another Fun Fact **Im Only 14 Years Old!**
 
