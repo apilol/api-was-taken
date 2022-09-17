@@ -25,3 +25,5 @@
 ![langStats](https://github-readme-stats.vercel.app/api/top-langs/?username=api-was-taken&theme=radical&border_radius=30px)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=api-was-taken&show_icons=true&locale=en" alt="asmodeus-was-taken" /></p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/755155481458114630)](https://discord.com/users/755155481458114630)
