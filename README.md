@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=api-was-taken" alt="asmodeus-was-taken" /></a> </p>
 
-- 🔭 Im Currently Working on [Api's Cabin](http://discord.apilol.xyz)
+- 🔭 Im Currently Working on [Api's Cabin](http://discord.apilol.xyz) & http://apilol.xyz
 - 📌 Im Currently Learning **HTML + CSS, Python & JS**
 - 🔥 Im Currently Looking for Help With **Website Development**
 - 🙋 Ask Me About **Python & Discord.py**
